@@ -1,7 +1,5 @@
 ### Welcome 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... completing my Web Development course at Academy Xi
 - 🌱 I’m currently learning ... HTML, CSS, and JavaScript
 - 👯 I’m looking to collaborate on ... Anything that will progress my learning
