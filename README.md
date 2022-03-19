@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with ... React.js
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/jethro-d/)
-- ⚡ Fun fact: ... I have a dizygotic twin brother. 
+- ⚡ Fun fact: ... I cycled up the tallest mountain in Thailand. 
